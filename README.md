@@ -34,4 +34,5 @@ Released under **CC0 1.0** (public domain). See [LICENSE](LICENSE).
 
 ## Disclaimer
 
-Cookbooks are community-contributed and provided as is. This project is not affiliated with, endorsed by, or sponsored by any of the sites or companies listed. Websites change, so a recipe may stop working at any time. If you own a listed site and want a recipe removed, open an issue or email [contact address] and it will be removed promptly.
+Cookbooks are community-contributed and provided as is. This project is not affiliated with, endorsed by, or sponsored by any of the sites or companies listed. Websites change, so a recipe may stop working at any time. If you operate a listed site and want a Cookbook removed, open an issue
+or email [support@covatools.com](mailto:support@covatools.com). Please include the site URL and Cookbook name so we can review your request.
